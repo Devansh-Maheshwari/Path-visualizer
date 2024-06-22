@@ -1,6 +1,6 @@
 import React, { useState ,useEffect} from 'react';
 import { dijkstra, bfs, dfs, astar } from './Algorithm';
-import './App.css';
+
 import  Grid  from './Grid';
 
 
